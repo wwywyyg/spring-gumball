@@ -1,7 +1,6 @@
 # spring-gumball
 CMPE-172 Lab 10
-# spring-gumball
-CMPE-172 Lab 10
+
 
 ## CI Workflow 
 first i install the gradle by using SDK man and check is the gradle is working
