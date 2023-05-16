@@ -33,7 +33,7 @@ first i create cluster and name with cmpe172 and connect it.
 
 then i enable project API
 ![api_enable](https://github.com/wwywyyg/spring-gumball/blob/main/images/enable_api.png)
-![api_enable_2](https://github.com/wwywyyg/spring-gumball/blob/main/images/enable_api.png)
+![api_enable_2](https://github.com/wwywyyg/spring-gumball/blob/main/images/api_enable.png)
 
 get project id
 ![project_id](https://github.com/wwywyyg/spring-gumball/blob/main/images/project_id.png)
